@@ -4,7 +4,10 @@ El objetivo de la aplicación es aportar al movimiento de datos abiertos y al me
 
 La primera versión del programa permite visualizar en un mapa la base de datos completa de recintos electorales de Ecuador.
 
-El siguiente paso es agregar funciones para permitir a los ciudadanos dibujar croquis detallados dentro de cada recinto para facilitar la ubicación de cada Junta Receptora del Voto.
+Siguientes funciones
+--------------------
+* Herramienta para dibujar un croquis detallado dentro de cada recinto para facilitar la ubicación de cada Junta Receptora del Voto.
+* [Motor de rutas](http://wiki.openstreetmap.org/wiki/Routing) con datos de cómo llegar a cada recinto.
 
 Datos abiertos
 --------------
