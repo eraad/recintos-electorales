@@ -27,7 +27,7 @@ var loadGeoPoints = function(map, userLocation) {
 	    _.map(placesObjects, function(item) {
 		var marker = L.marker([item.get("position").latitude, item.get("position").longitude]).addTo(map);
 		marker.bindPopup("<h3>" + item.get("RECINTO") + "</h3><p>" + item.get("DIR_RECINT") + "</p><p>" + item.get("PARROQUIA") + ", " +
-				 item.get("CANTON") + ", " + item.get("PROVINCIA") + "</p><p>Juntas Receptoras del Voto: " + item.get("NUM_JUNR") + "</p>")
+				 item.get("CANTON") + ", " + item.get("PROVINCIA") + "</p><p><strong>Juntas Receptoras del Voto:</strong> " + item.get("NUM_JUNR") + "</p>")
 	    });
 	}
     });
