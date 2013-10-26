@@ -3,7 +3,7 @@ var setupMap = function() {
 
     L.tileLayer('http://{s}.tile.cloudmade.com/2d5a61297d38433e8da952ea7cb1e0df/997/256/{z}/{x}/{y}.png', {
 	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
-	maxZoom: 12
+	maxZoom: 18
     }).addTo(map);
     map.locate({setView: true});
     map.on("locationfound", function(e) {

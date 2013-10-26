@@ -7,7 +7,7 @@ La primera versión del programa permite visualizar en un mapa la base de datos 
 El siguiente paso es agregar funciones para permitir a los ciudadanos dibujar croquis detallados dentro de cada recinto para facilitar la ubicación de cada Junta Receptora del Voto.
 
 Datos abiertos
-------------------------------------
+--------------
 Los datos son provistos por el departamento de Registro Electoral del [Consejo Nacional Electoral](http://www.cne.gob.ec). Los datos están disponibles en [datosabiertos.ec](http://datosabiertos.ec/dataset/recintos-electorales-elecciones-2013).
 
 Tecnología
@@ -15,3 +15,8 @@ Tecnología
 * [Parse](http://www.parse.com)
 * [OpenStreetMaps](http://www.openstreetmaps.org)
 * [CloudMade](https://www.cloudmade.com)
+* [jQuery](http://jquery.com/)
+
+Licencia
+--------
+Este programa y sus partes son de dominio público.
