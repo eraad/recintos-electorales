@@ -1,6 +1,6 @@
 Visualización geo-referenciada de los recintos electorales de Ecuador
 =====================================================================
-Desarrollado con los siguientes componentes:
+Aplicación web con mapas para visualizar los recintos electorales de Ecuador, desarrollado con los siguientes componentes:
 
 * [Parse](http://www.parse.com)
 * [OpenStreetMaps](http://www.openstreetmaps.org)
