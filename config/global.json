@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "recintos"
+        }, 
+        "recintos": {
+            "applicationId": "4RFKcCR5vsItVPUnebOZ49G58NUpy1YBs6x5CS5f", 
+            "masterKey": "j0WiGKcDmcMuzwlDjM3EV7dxk9tUDRZndaNXu88E"
+        }
+    }
+}
